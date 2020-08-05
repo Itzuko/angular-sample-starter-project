@@ -1,3 +1,3 @@
-# angular-6gkbpy-nhpvpk
+# Sample starter project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-6gkbpy-nhpvpk)
+This repository is a fork and edited version from the sample tutorial project [source: Angular.io](https://angular.io/start).
